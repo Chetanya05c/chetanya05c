@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Designing+and+building+full-stack+web+products;React+%7C+Next.js+%7C+Figma+%7C+AI-Integrated+SaaS;Pre-Final+Year+CS+(AI)+Student+%40+Parul+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Designing+and+building+full-stack+web+products;React+%7C+Next.js+%7C+Figma+%7C+AI-Integrated+SaaS;Final+Year+CS+Student+%40+Parul+University)](https://git.io/typing-svg)
 
 </div>
 
