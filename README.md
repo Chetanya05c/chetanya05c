@@ -27,7 +27,7 @@
 
 ## 🧠 About Me
 
-*Web designer and developer who likes owning a product end-to-end — from the Figma frame to the deployed app. I build AI-integrated SaaS tools with React/Next.js on the frontend and clean, scalable backends underneath, with a design-first eye for UI/UX. Pre-final year Computer Science (AI) student at Parul University, currently deepening my full-stack and design skillset while building a portfolio of shippable products.*
+*Web designer and developer who likes owning a product end-to-end — from the Figma frame to the deployed app. I build AI-integrated SaaS tools with React/Next.js on the frontend and clean, scalable backends underneath, with a design-first eye for UI/UX. Final year Computer Science student at Parul University, currently deepening my full-stack and design skillset while building a portfolio of shippable products.*
 
 ---
 
