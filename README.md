@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chetanya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Designer%20%26%20Developer%20%7C%20AI-Integrated%20Products&descAlignY=51&descAlign=50"/>
-
 <a href="https://www.linkedin.com/in/chetanya-1914aa225/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
